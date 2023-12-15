@@ -18,4 +18,4 @@ This script is a convenient tool to automatically rename your files in a selecte
 
 ## Important notes
 **Backup your files** : The renaming process is irreversibke. If you'd like to keep the original names, make sure you keep a copy of that directory  
-** Permissions ** : The script may require appropriate permissions to read and write files in the selected directory
+**Permissions** : The script may require appropriate permissions to read and write files in the selected directory
